@@ -9,7 +9,7 @@
 }
 #header{
 	color: #5F476F;
-	height: 100px;
+	height: 60px;
 	position:absolute;
 	top: 0px;
 	bottom: auto;
@@ -22,8 +22,9 @@
 	position: relative;
 	right: 0px;
 	left: auto;
+	top: 0px;
 	float: right;
-	padding: 20px;
+
 }
 
 li {
@@ -46,7 +47,7 @@ li {
 	position: absolute;
 	width: 560px;
 	top:auto;
-	bottom: 110px;
+	bottom: 160px;
 	left: 230px;
 	right:auto;
 	margin-right: auto;
@@ -67,7 +68,7 @@ li {
 }
 .searchbox{
 	width:650px;
-	height: 60px;
+	height: 40px;
 	border: 1px solid #EAEAEA;
 	border-radius: 1px;
 	box-shadow: 0 8px 6px -6px #CBCBCB;
