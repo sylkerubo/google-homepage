@@ -26,7 +26,11 @@
 	float: right;
 
 }
+#nav .apps{
+	width:20px;
+	height: 20px;
 
+}
 li {
 	display: inline;
 	margin-right: 20px;
